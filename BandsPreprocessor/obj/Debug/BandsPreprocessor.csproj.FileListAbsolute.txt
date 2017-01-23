@@ -1,0 +1,9 @@
+d:\Projects\Lab\Satellogic\BandsPreprocessor\BandsPreprocessor\bin\Debug\BandsPreprocessor.exe.config
+d:\Projects\Lab\Satellogic\BandsPreprocessor\BandsPreprocessor\bin\Debug\BandsPreprocessor.exe
+d:\Projects\Lab\Satellogic\BandsPreprocessor\BandsPreprocessor\bin\Debug\BandsPreprocessor.pdb
+d:\Projects\Lab\Satellogic\BandsPreprocessor\BandsPreprocessor\obj\Debug\BandsPreprocessor.csprojResolveAssemblyReference.cache
+d:\Projects\Lab\Satellogic\BandsPreprocessor\BandsPreprocessor\obj\Debug\BandsPreprocessor.Form1.resources
+d:\Projects\Lab\Satellogic\BandsPreprocessor\BandsPreprocessor\obj\Debug\BandsPreprocessor.Properties.Resources.resources
+d:\Projects\Lab\Satellogic\BandsPreprocessor\BandsPreprocessor\obj\Debug\BandsPreprocessor.csproj.GenerateResource.Cache
+d:\Projects\Lab\Satellogic\BandsPreprocessor\BandsPreprocessor\obj\Debug\BandsPreprocessor.exe
+d:\Projects\Lab\Satellogic\BandsPreprocessor\BandsPreprocessor\obj\Debug\BandsPreprocessor.pdb

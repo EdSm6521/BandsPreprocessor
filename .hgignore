@@ -1,0 +1,5 @@
+syntax: glob
+BandsPreprocessor/bin/Debug
+BandsPreprocessor/obj
+.vs/BandsPreprocessor/v14/.suo
+BandsPreprocessor/bin
